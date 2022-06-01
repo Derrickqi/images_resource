@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/ingress-nginx/controller:1.2.1
+FROM k8s.gcr.io/ingress-nginx/controller:v1.2.1
 MAINTAINER Q
