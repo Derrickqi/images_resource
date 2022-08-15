@@ -1,1 +1,2 @@
-quay.io/prometheus-operator/prometheus-operator:v0.49.0
+FROM quay.io/prometheus-operator/prometheus-operator:v0.49.0
+MAINTAINER Q
