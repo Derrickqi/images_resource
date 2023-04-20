@@ -1,1 +1,2 @@
-from kube-state-metrics:v2.0.0
+FROM kube-state-metrics:v2.0.0
+MAINTAINER Q
