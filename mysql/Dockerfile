@@ -1,1 +1,2 @@
-mysql:5.7.23
+FROM mysql:5.7.23
+MAINTAINER Q
