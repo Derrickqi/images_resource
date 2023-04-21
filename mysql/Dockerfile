@@ -1,2 +1,2 @@
-FROM registry.cbeijing.aliyuncs.com/dotbalo/mysql:5.7.23
+FROM mysql:5.7.42
 MAINTAINER Q
